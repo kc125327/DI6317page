@@ -1,0 +1,89 @@
+    /* Remove the navbar's default margin-bottom and rounded borders */
+ body {
+
+    background-repeat: no-repeat;
+    background-size:     cover;                      /* <------ */
+    background-position: center center;
+	background-color: white;
+
+}
+#background{
+	background-color: #C0392B;
+
+}
+#content{
+  background-color:#A99494 ;
+}
+
+#scroll {
+    background-color: #cdcdcd;
+    width: 120%;
+    height: 400px;
+    overflow: scroll;
+background-repeat: no-repeat;
+background-attachment: fixed;
+    background-position: center;
+
+}
+.mySlides {display:none;}
+h1 {
+
+}
+h2
+h3
+h4
+p{
+
+
+}
+.center-container{
+  background-color: grey;
+}
+
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  text-align: right;
+	  background-color: #ff0000;
+
+    }
+
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {
+height: 450px;
+	}
+
+    /* Set gray background color and 100% height */
+.sidenav {
+      padding-top: 20px;
+      background-color: #D6D5D5;
+      height: 120%;
+
+    }
+
+    /* Set black background color, white text and some padding */
+footer {
+      background-color: #C0392B;
+      color: white;
+      padding: 15px;
+    }
+div.logo{
+		Position:absolute;
+		left: 100px;
+		top: 150px;
+
+
+}
+div.Home {
+	text-shadow: 0 0 3px #0000ff;
+	color: #ffffff;
+	position: absolute;
+	left:100px;
+	Top:25px;
+	Padding:25px;
+	background-color: #e60000;
+}
+
+
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px)

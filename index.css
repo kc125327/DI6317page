@@ -14,7 +14,11 @@
 #content{
   background-color:#A99494 ;
 }
-
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
 #scroll {
     background-color: #cdcdcd;
     width: 120%;

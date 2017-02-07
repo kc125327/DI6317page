@@ -16,7 +16,7 @@
 }
 
 #scroll {
-    background-color: #cdcdcd;
+    background-color: #A99494  ;
     width: 120%;
     height: 400px;
     overflow: scroll;
@@ -36,9 +36,9 @@ p{
 
 
 }
-.center-container{
+/*.center-container{
   background-color: grey;
-}
+}*/
 
  .navbar {
       margin-bottom: 0;

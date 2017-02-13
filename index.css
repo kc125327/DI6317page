@@ -6,7 +6,7 @@ p, h1, ul, h3, h2, h5, blockquote, table,ol{
  body {
 
     background-repeat: no-repeat;
-    background-size:     cover;                      /* <------ */
+    background-size:     cover;
     background-position: center center;
 	background-color: white;
 }
